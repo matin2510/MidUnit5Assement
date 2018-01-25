@@ -90,7 +90,7 @@ public class MainActivity extends AppCompatActivity {
         switch (item.getItemId()) {
             // action with ID action_refresh was selected
             case R.id.action_refresh:
-                Toast.makeText(this, "Refresh selected", Toast.LENGTH_SHORT)
+                Toast.makeText(this, "Refresh clicked", Toast.LENGTH_SHORT)
                         .show();
                 break;
             // action with ID action_settings was selected
